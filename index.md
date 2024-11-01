@@ -6,17 +6,13 @@
     <title>Light Blue Background</title>
     <style>
         body {
-            background-color: EBE2FF; /* Light blue color */
+            background-color: D6C7F7;/* Light blue color */
             margin: 0;
             padding: 20px;
             font-family: Arial, sans-serif;
         }
     </style>
-</head>
-<body>
-    <h1>Welcome to My Webpage</h1>
-    <p>This page has a light blue background!</p>
-</body>
+</head> 
 </html>
 
 
