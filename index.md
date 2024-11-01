@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,7 +6,7 @@
     <title>Light Blue Background</title>
     <style>
         body {
-            background-color: #C8B2F7; /* Light blue color */
+            background-color: EBE2FF; /* Light blue color */
             margin: 0;
             padding: 20px;
             font-family: Arial, sans-serif;
