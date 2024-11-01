@@ -22,7 +22,7 @@
 
 ![Project](./IMG_1510%202.JPG)
 
-- Here is a picture with me and my poster at teh San Diego Super Computer Center final showcase where I showcased my project and summer reaserch to many different researchers and mentors.
+- Here is a picture with me and my poster at the San Diego Super Computer Center final showcase where I showcased my project and summer reaserch to many different researchers and mentors.
 
 
 ## Summary
@@ -32,3 +32,8 @@
 - Here is the documentation I created during my initial weeks.
 
 [Krishiv Inital Documentation ON EMSCRIPTEM](https://github.com/Krishiv111/SDSCREPO/issues/1)
+
+
+
+# Project #2 Data Sorting Project
+
