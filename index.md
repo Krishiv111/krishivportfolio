@@ -1,3 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Light Blue Background</title>
+    <style>
+        body {
+            background-color: #C8B2F7; /* Light blue color */
+            margin: 0;
+            padding: 20px;
+            font-family: Arial, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to My Webpage</h1>
+    <p>This page has a light blue background!</p>
+</body>
+</html>
+
+
+
+
 # Project #1 Web Assembly Performance Testing
 
 ![Project](./IMG_1510%202.JPG)
