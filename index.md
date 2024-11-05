@@ -76,7 +76,13 @@
 
 <h1 id="project3">Project #3: Cancer Research Project</h1>
 <h2>Project Summary and Details</h2>
+<p> This project was a cancer reaserch project, as part of my APCSA class we were tasked to create a project that may had been outside of hour norm and reaserch about something new, as most of the time I spent was learning about sectors such as finance, AI, and tech I decided to pursue a sector I am not as familiar with healthcare. During the time making of this project my grandpa was suffering through lung cancer and just like him and many other I wanted to use my technological skills to create an educational program that showcased how Cancer affects millions around the USA. I paried up with a 3 other classmates we established scrum roles and decided to work on this project. Primiarly it include usage of a backend that had took data from an API which contained differnt data and information of the other types of cancer. Then I created an interactive model through a diagram and plotted points useing matplotlib. Through this we createrd a user interactive diagram where they would play the game similar to "injection" where they would have their mouse and try to drag the points off the body diagram and would click to learn more about the type of cancer and how it affected other. We had differnt features including a memorial where users would post about their loved ones who were affected by cancer. Also created a table fetching data from enpoints about statistics behind cancer. I learned a lot about a sector I wouldnt necessarily have interest in but also I got to collaborate. My team used a scrum process, I was scrum master which meant I would also be responsible for delegating tasks and checkin with our team to provide morale and incusivity. This projected was presented at Night At the Mueseum to hundreds of students, parents, and teachers within a showcase at my school.       </p>
 
+
+
+<p><a href="https://github.com/Krishiv111/KPNSTeam/issues" target="_blank">Github Repository</a></p>
+<p><a href="https://youtu.be/0b7FmaRDIZ0" target="_blank">Video Of Project</a></p>
+<p><a href="https://github.com/users/Krishiv111/projects/11" target="_blank">Scrum Board</a></p>
 
 </body>
 </html>
