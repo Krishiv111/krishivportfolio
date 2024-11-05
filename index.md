@@ -51,6 +51,57 @@
     </ul>
 </nav>
 
+
+ <title>My Profile</title>
+    <style>
+        body {
+            background-color: #D6C7F7; /* Light blue background */
+            margin: 0;
+            padding: 20px;
+            font-family: Arial, sans-serif;
+        }
+        nav.social-links {
+            background-color: #f4f4f4;
+            padding: 10px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+        }
+        nav.social-links ul {
+            list-style-type: none;
+            padding: 0;
+            display: flex;
+            gap: 15px;
+        }
+        nav.social-links ul li {
+            display: inline;
+        }
+        nav.social-links ul li a {
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+        }
+        nav.social-links ul li a:hover {
+            color: #0073b1; /* Hover color */
+        }
+    </style>
+</head>
+<body>
+
+<!-- Social Links Section -->
+<nav class="social-links">
+    <h2>Connect with Me</h2>
+    <ul>
+        <li><a href="https://github.com/yourusername" target="_blank">GitHub</a></li>
+        <li><a href="https://www.linkedin.com/in/yourusername" target="_blank">LinkedIn</a></li>
+        <li><a href="https://twitter.com/yourusername" target="_blank">Twitter</a></li>
+        <li><a href="https://instagram.com/yourusername" target="_blank">Instagram</a></li>
+    </ul>
+</nav>
+
+
+
+
+
 <h1 id="project1">Project #1: Web Assembly Performance Testing</h1>
 
 <img src="./IMG_1510%202.JPG" alt="Project image with poster at San Diego Super Computer Center">
