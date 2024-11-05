@@ -84,17 +84,16 @@
             color: #0073b1; /* Hover color */
         }
     </style>
-</head>
+
 <body>
 
 <!-- Social Links Section -->
 <nav class="social-links">
     <h2>Connect with Me</h2>
     <ul>
-        <li><a href="https://github.com/yourusername" target="_blank">GitHub</a></li>
-        <li><a href="https://www.linkedin.com/in/yourusername" target="_blank">LinkedIn</a></li>
-        <li><a href="https://twitter.com/yourusername" target="_blank">Twitter</a></li>
-        <li><a href="https://instagram.com/yourusername" target="_blank">Instagram</a></li>
+        <li><a href="https://github.com/Krishiv111" target="_blank">GitHub</a></li>
+        <li><a href="https://www.linkedin.com/in/krishiv-mahendru-8607b8310/" target="_blank">LinkedIn</a></li>
+
     </ul>
 </nav>
 
