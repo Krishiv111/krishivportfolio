@@ -47,6 +47,7 @@
         <li><a href="#project1">Project #1: Web Assembly Performance Testing</a></li>
         <li><a href="#project2">Project #2: Data Sorting Project</a></li>
          <li><a href="#project3">Project #3: Cancer Research Project</a></li>
+          <li><a href="#project4">Project #4: Gravity Powered Car</a></li>
 
     </ul>
 </nav>
@@ -55,7 +56,7 @@
  <title>My Profile</title>
     <style>
         body {
-            background-color: #D6C7F7; /* Light blue background */
+            background-color: #D6C7F7; 
             margin: 0;
             padding: 20px;
             font-family: Arial, sans-serif;
@@ -126,7 +127,7 @@
 
 <h1 id="project3">Project #3: Cancer Research Project</h1>
 <h2>Project Summary and Details</h2>
-<p> This project was a cancer reaserch project, as part of my APCSA class we were tasked to create a project that may had been outside of hour norm and reaserch about something new, as most of the time I spent was learning about sectors such as finance, AI, and tech I decided to pursue a sector I am not as familiar with healthcare. During the time making of this project my grandpa was suffering through lung cancer and just like him and many other I wanted to use my technological skills to create an educational program that showcased how Cancer affects millions around the USA. I paried up with a 3 other classmates we established scrum roles and decided to work on this project. Primiarly it include usage of a backend that had took data from an API which contained differnt data and information of the other types of cancer. Then I created an interactive model through a diagram and plotted points useing matplotlib. Through this we createrd a user interactive diagram where they would play the game similar to "injection" where they would have their mouse and try to drag the points off the body diagram and would click to learn more about the type of cancer and how it affected other. We had differnt features including a memorial where users would post about their loved ones who were affected by cancer. Also created a table fetching data from enpoints about statistics behind cancer. I learned a lot about a sector I wouldnt necessarily have interest in but also I got to collaborate. My team used a scrum process, I was scrum master which meant I would also be responsible for delegating tasks and checkin with our team to provide morale and incusivity. This projected was presented at Night At the Mueseum to hundreds of students, parents, and teachers within a showcase at my school.       </p>
+<p> As a part of my APCSA class, we were tasked to create a project that may have been outside of the norm and research something new, as most of the time I spent was learning about sectors such as finance, AI, and tech I decided to pursue a sector I am not as familiar with healthcare. During the time making this project, my grandpa was suffering from lung cancer and just like him and many others I wanted to use my technological skills to create an educational program that showcased how Cancer affects millions around the USA. I paired up with 3 other classmates established scrum roles and decided to create a passion project to help us and others learn more about cancer. Primarily this project is built using a backend with data from an API which contains different data and information on the types of cancer. Then I created an interactive model through a diagram and plotted points using Matplotlib. Through this, we created a user interactive diagram where they would play a game similar to "injection" where they would have their mouse and try to drag the points off the body diagram and would click to learn more about the type of cancer and how it affected others. We had different features including a memorial where users would post about their loved ones who were affected by cancer. I also created a table fetching data from endpoints about statistics behind cancer. I learned a lot about a sector I wouldn't necessarily have an interest in but also I got to collaborate. My team used a scrum process, I was a scrum master which meant I would also be responsible for delegating tasks and checking with our team to provide morale and inclusivity. This project was presented at Night At the Museum to hundreds of students, parents, and teachers in a showcase at my school.       </p>
 
 
 
@@ -135,5 +136,14 @@
 <p><a href="https://github.com/users/Krishiv111/projects/11" target="_blank">Scrum Board</a></p>
 
 </body>
+
+
+
+<h1 id="project4">Project #4: Physics Car</h1>
+<h2>Project Summary and Details</h2>
+<p> This is a project I made for my physics class. While exploring the forces of our world we were supposed to make a car using recyclable materials. In this case I made a gravity powered car using chopsticks and cd's and a pack of screws as my weight. This was a way I found to connect stem in a fun way and allow to express my creativity. A challenge I faced was my car would often break apart so I used more layers of chopsticks and relied on superglue for it's functionality.    </p>
+
+
+<p><a href="https://youtu.be/SOW5iIMskZE" target="_blank">Car Video!</a></p>
 
 
