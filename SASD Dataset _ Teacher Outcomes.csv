@@ -1,0 +1,376 @@
+Year,Teacher_ID,Campus_ID,Years_of_Experience,Highest_Degree_Obtained,Grade_Taught,Year_end_Status,Reason_for_Leaving,Performance_Evaluation,Teacher_Morale,Salary_Band
+2021,T0001,C1,14,Bachelor,Kindergarten,Retained,N/A,2,1,Mid
+2021,T0002,C1,5,Master,Kindergarten,Left for Another District,Compensation,5,1,Mid
+2021,T0003,C1,15,Bachelor,Kindergarten,Retained,N/A,3,3,Mid
+2021,T0004,C1,19,Bachelor,Kindergarten,Retained,N/A,1,3,Senior
+2021,T0005,C1,6,Master,1st,Retained,N/A,3,3,Mid
+2021,T0006,C1,17,Master,1st,Retained,N/A,2,1,Senior
+2021,T0007,C1,18,Master,1st,Retained,N/A,3,4,Senior
+2021,T0008,C1,20,Bachelor,1st,Retained,N/A,3,2,Senior
+2021,T0009,C1,13,Bachelor,1st,Retained,N/A,1,4,Mid
+2021,T0010,C1,13,Master,2nd,Retained,N/A,3,5,Mid
+2021,T0011,C1,11,Master,2nd,Retained,N/A,4,3,Mid
+2021,T0012,C1,16,Bachelor,2nd,Left for Charter,Compensation,4,1,Mid
+2021,T0013,C1,11,Bachelor,2nd,Retained,N/A,4,4,Mid
+2021,T0014,C1,4,Bachelor,3rd,Left for Another District,Career Advancement,5,4,Mid
+2021,T0015,C1,11,Bachelor,3rd,Retained,N/A,1,3,Mid
+2021,T0016,C1,8,Master,3rd,Retained,N/A,3,4,Mid
+2021,T0017,C1,8,Doctorate,3rd,Retained,N/A,4,4,Mid
+2021,T0018,C1,17,Bachelor,4th,Retained,N/A,3,3,Senior
+2021,T0019,C1,16,Bachelor,4th,Retained,N/A,4,3,Mid
+2021,T0020,C1,7,Master,4th,Retained,N/A,2,3,Mid
+2021,T0021,C1,7,Master,4th,Retained,N/A,3,4,Mid
+2021,T0022,C1,13,Master,5th,Retained,N/A,3,4,Mid
+2021,T0023,C1,15,Bachelor,5th,Retained,N/A,4,2,Mid
+2021,T0024,C1,10,Master,5th,Retained,N/A,2,3,Mid
+2021,T0025,C1,16,Master,5th,Retained,N/A,1,3,Mid
+2021,T0026,C2,8,Master,Kindergarten,Retained,N/A,2,2,Mid
+2021,T0027,C2,12,Bachelor,Kindergarten,Retained,N/A,1,2,Mid
+2021,T0028,C2,10,Bachelor,Kindergarten,Retained,N/A,2,2,Mid
+2021,T0029,C2,20,Doctorate,Kindergarten,Retained,N/A,3,1,Senior
+2021,T0030,C2,4,Bachelor,1st,Terminated,Performance,1,3,Mid
+2021,T0031,C2,7,Bachelor,1st,Left for Another District,Compensation,3,2,Mid
+2021,T0032,C2,9,Bachelor,1st,Retained,N/A,4,4,Mid
+2021,T0033,C2,9,Master,1st,Retained,N/A,4,2,Mid
+2021,T0034,C2,6,Master,2nd,Left for Charter,Compensation,2,1,Mid
+2021,T0035,C2,10,Master,2nd,Retained,N/A,1,2,Mid
+2021,T0036,C2,13,Bachelor,2nd,Retained,N/A,3,4,Mid
+2021,T0037,C2,20,Bachelor,2nd,Left for Another District,Career Advancement,1,4,Senior
+2021,T0038,C2,12,Bachelor,2nd,Retained,N/A,4,4,Mid
+2021,T0039,C2,4,Bachelor,3rd,Left for Charter,Compensation,1,2,Mid
+2021,T0040,C2,6,Doctorate,3rd,Retained,N/A,2,2,Mid
+2021,T0041,C2,6,Master,3rd,Retained,N/A,2,4,Mid
+2021,T0042,C2,19,Master,3rd,Retained,N/A,3,4,Senior
+2021,T0043,C2,4,Bachelor,4th,Retained,N/A,3,3,Mid
+2021,T0044,C2,9,Doctorate,4th,Retained,N/A,3,5,Mid
+2021,T0045,C2,4,Bachelor,4th,Retained,N/A,3,2,Mid
+2021,T0046,C2,7,Bachelor,4th,Left for Charter,Career Advancement,3,2,Mid
+2021,T0047,C2,9,Bachelor,5th,Retained,N/A,1,5,Mid
+2021,T0048,C2,6,Doctorate,5th,Retained,N/A,1,2,Mid
+2021,T0049,C2,4,Bachelor,5th,Left for Another District,Compensation,2,3,Mid
+2021,T0050,C2,6,Bachelor,5th,Terminated,Performance,1,3,Mid
+2021,T0051,C3,13,Master,Kindergarten,Retained,N/A,4,4,Mid
+2021,T0052,C3,19,Bachelor,Kindergarten,Retained,N/A,2,3,Senior
+2021,T0053,C3,16,Bachelor,Kindergarten,Retained,N/A,1,3,Mid
+2021,T0054,C3,11,Master,Kindergarten,Retained,N/A,4,4,Mid
+2021,T0055,C3,5,Bachelor,1st,Retained,N/A,3,1,Mid
+2021,T0056,C3,20,Bachelor,1st,Retained,N/A,4,3,Senior
+2021,T0057,C3,4,Master,1st,Retained,N/A,2,5,Mid
+2021,T0058,C3,9,Bachelor,1st,Retained,N/A,3,3,Mid
+2021,T0059,C3,19,Doctorate,1st,Retained,N/A,3,2,Senior
+2021,T0060,C3,8,Bachelor,2nd,Retained,N/A,1,3,Mid
+2021,T0061,C3,4,Bachelor,2nd,Retained,N/A,2,2,Mid
+2021,T0062,C3,19,Bachelor,2nd,Retained,N/A,5,3,Senior
+2021,T0063,C3,8,Bachelor,2nd,Retained,N/A,3,2,Mid
+2021,T0064,C3,8,Bachelor,3rd,Retained,N/A,2,1,Mid
+2021,T0065,C3,17,Doctorate,3rd,Left for Charter,Compensation,2,1,Senior
+2021,T0066,C3,4,Bachelor,3rd,Left for Charter,Compensation,3,1,Mid
+2021,T0067,C3,13,Bachelor,3rd,Retained,N/A,3,4,Mid
+2021,T0068,C3,7,Bachelor,4th,Retained,N/A,5,5,Mid
+2021,T0069,C3,15,Bachelor,4th,Retained,N/A,3,3,Mid
+2021,T0070,C3,8,Bachelor,4th,Retained,N/A,4,4,Mid
+2021,T0071,C3,16,Bachelor,4th,Retained,N/A,3,1,Mid
+2021,T0072,C3,20,Master,5th,Retained,N/A,3,4,Senior
+2021,T0073,C3,12,Bachelor,5th,Left for Charter,Compensation,3,2,Mid
+2021,T0074,C3,7,Bachelor,5th,Left for Charter,Compensation,4,4,Mid
+2021,T0075,C3,20,Master,5th,Retained,N/A,2,5,Senior
+2022,T0001,C1,15,Bachelor,Kindergarten,Left for Charter,Compensation,2,1,Mid
+2022,T0003,C1,16,Bachelor,Kindergarten,Retained,N/A,3,3,Mid
+2022,T0004,C1,20,Bachelor,Kindergarten,Retained,N/A,1,3,Senior
+2022,T0005,C1,7,Master,1st,Retained,N/A,3,2,Mid
+2022,T0006,C1,18,Master,1st,Retained,N/A,2,1,Senior
+2022,T0007,C1,19,Master,1st,Retained,N/A,2,4,Senior
+2022,T0008,C1,21,Bachelor,1st,Retained,N/A,3,2,Senior
+2022,T0009,C1,14,Bachelor,1st,Retained,N/A,1,4,Mid
+2022,T0010,C1,14,Master,2nd,Retained,N/A,4,5,Mid
+2022,T0011,C1,12,Master,2nd,Retained,N/A,4,3,Mid
+2022,T0013,C1,12,Bachelor,2nd,Retained,N/A,4,4,Mid
+2022,T0015,C1,12,Bachelor,3rd,Retained,N/A,1,3,Mid
+2022,T0016,C1,9,Master,3rd,Retained,N/A,3,3,Mid
+2022,T0017,C1,9,Doctorate,3rd,Retained,N/A,4,3,Mid
+2022,T0018,C1,18,Bachelor,4th,Retained,N/A,3,3,Senior
+2022,T0019,C1,17,Bachelor,4th,Retained,N/A,4,3,Senior
+2022,T0020,C1,8,Master,4th,Retained,N/A,2,3,Mid
+2022,T0021,C1,8,Master,4th,Retained,N/A,3,4,Mid
+2022,T0022,C1,14,Master,5th,Retained,N/A,3,4,Mid
+2022,T0023,C1,16,Bachelor,5th,Retained,N/A,4,2,Mid
+2022,T0024,C1,11,Master,5th,Retained,N/A,2,3,Mid
+2022,T0025,C1,17,Master,5th,Retained,N/A,1,2,Senior
+2022,T0026,C2,9,Master,Kindergarten,Left for Charter,Compensation,2,2,Mid
+2022,T0027,C2,13,Bachelor,Kindergarten,Retained,N/A,1,2,Mid
+2022,T0028,C2,11,Bachelor,Kindergarten,Retained,N/A,2,2,Mid
+2022,T0029,C2,21,Doctorate,Kindergarten,Retained,N/A,4,1,Senior
+2022,T0032,C2,10,Bachelor,1st,Retained,N/A,4,4,Mid
+2022,T0033,C2,10,Master,1st,Retained,N/A,4,2,Mid
+2022,T0035,C2,11,Master,2nd,Retained,N/A,1,2,Mid
+2022,T0036,C2,14,Bachelor,2nd,Retained,N/A,3,4,Mid
+2022,T0038,C2,13,Bachelor,2nd,Left for Another District,Personal,4,3,Mid
+2022,T0040,C2,7,Doctorate,3rd,Left for Charter,Career Advancement,2,1,Mid
+2022,T0041,C2,7,Master,3rd,Retained,N/A,2,5,Mid
+2022,T0042,C2,20,Master,3rd,Retained,N/A,3,4,Senior
+2022,T0043,C2,5,Bachelor,4th,Retained,N/A,3,3,Mid
+2022,T0044,C2,10,Doctorate,4th,Retained,N/A,3,4,Mid
+2022,T0045,C2,5,Bachelor,4th,Retained,N/A,3,2,Mid
+2022,T0047,C2,10,Bachelor,5th,Retained,N/A,1,5,Mid
+2022,T0048,C2,7,Doctorate,5th,Retained,N/A,1,1,Mid
+2022,T0051,C3,14,Master,Kindergarten,Retained,N/A,4,4,Mid
+2022,T0052,C3,20,Bachelor,Kindergarten,Retained,N/A,2,3,Senior
+2022,T0053,C3,17,Bachelor,Kindergarten,Retained,N/A,1,3,Senior
+2022,T0054,C3,12,Master,Kindergarten,Retained,N/A,5,3,Mid
+2022,T0055,C3,6,Bachelor,1st,Retained,N/A,3,1,Mid
+2022,T0056,C3,21,Bachelor,1st,Retained,N/A,4,3,Senior
+2022,T0057,C3,5,Master,1st,Retained,N/A,2,5,Mid
+2022,T0058,C3,10,Bachelor,1st,Retained,N/A,3,3,Mid
+2022,T0059,C3,20,Doctorate,1st,Retained,N/A,3,2,Senior
+2022,T0060,C3,9,Bachelor,2nd,Retained,N/A,1,3,Mid
+2022,T0061,C3,5,Bachelor,2nd,Retained,N/A,2,2,Mid
+2022,T0062,C3,20,Bachelor,2nd,Retained,N/A,5,3,Senior
+2022,T0063,C3,9,Bachelor,2nd,Retained,N/A,3,2,Mid
+2022,T0064,C3,9,Bachelor,3rd,Retained,N/A,2,1,Mid
+2022,T0067,C3,14,Bachelor,3rd,Left for Charter,Compensation,3,4,Mid
+2022,T0068,C3,8,Bachelor,4th,Retained,N/A,5,5,Mid
+2022,T0069,C3,16,Bachelor,4th,Retained,N/A,3,2,Mid
+2022,T0070,C3,9,Bachelor,4th,Retained,N/A,4,4,Mid
+2022,T0071,C3,17,Bachelor,4th,Retained,N/A,3,1,Senior
+2022,T0072,C3,21,Master,5th,Retained,N/A,3,4,Senior
+2022,T0075,C3,21,Master,5th,Retained,N/A,2,5,Senior
+2022,T0076,C1,3,Bachelor,Kindergarten,Retained,N/A,2,4,Entry
+2022,T0077,C1,1,Bachelor,2nd,Left for Another District,Career Advancement,3,3,Entry
+2022,T0078,C1,2,Bachelor,3rd,Retained,N/A,4,3,Entry
+2022,T0079,C2,19,Bachelor,1st,Retained,N/A,2,4,Senior
+2022,T0080,C2,1,Bachelor,1st,Retained,N/A,3,3,Entry
+2022,T0081,C2,2,Bachelor,2nd,Left for Another District,Personal,2,4,Entry
+2022,T0082,C2,16,Master,2nd,Retained,N/A,3,3,Mid
+2022,T0083,C2,13,Bachelor,3rd,Retained,N/A,4,1,Mid
+2022,T0084,C2,1,Bachelor,4th,Retained,N/A,3,3,Entry
+2022,T0085,C2,2,Bachelor,5th,Retained,N/A,3,3,Entry
+2022,T0086,C2,3,Bachelor,5th,Retained,N/A,2,3,Entry
+2022,T0087,C3,9,Bachelor,3rd,Retained,N/A,3,4,Mid
+2022,T0088,C3,12,Bachelor,3rd,Left for Another District,Personal,3,3,Mid
+2022,T0089,C3,3,Master,5th,Retained,N/A,4,2,Entry
+2022,T0090,C3,5,Bachelor,5th,Retained,N/A,3,2,Mid
+2023,T0003,C1,17,Bachelor,Kindergarten,Retained,N/A,3,3,Senior
+2023,T0004,C1,21,Bachelor,Kindergarten,Retained,N/A,1,3,Senior
+2023,T0005,C1,8,Master,1st,Retained,N/A,3,2,Mid
+2023,T0006,C1,19,Master,1st,Retained,N/A,2,1,Senior
+2023,T0007,C1,20,Master,1st,Retained,N/A,3,4,Senior
+2023,T0008,C1,22,Bachelor,1st,Retained,N/A,4,2,Senior
+2023,T0009,C1,15,Bachelor,1st,Retained,N/A,1,4,Mid
+2023,T0010,C1,15,Master,2nd,Retained,N/A,4,5,Mid
+2023,T0011,C1,13,Master,2nd,Retained,N/A,4,3,Mid
+2023,T0013,C1,13,Bachelor,2nd,Retained,N/A,4,4,Mid
+2023,T0015,C1,13,Bachelor,3rd,Retained,N/A,1,3,Mid
+2023,T0016,C1,10,Master,3rd,Retained,N/A,3,3,Mid
+2023,T0017,C1,10,Doctorate,3rd,Retained,N/A,4,2,Mid
+2023,T0018,C1,19,Bachelor,4th,Retained,N/A,3,3,Senior
+2023,T0019,C1,18,Bachelor,4th,Retained,N/A,4,3,Senior
+2023,T0020,C1,9,Master,4th,Retained,N/A,2,3,Mid
+2023,T0021,C1,9,Master,4th,Retained,N/A,3,4,Mid
+2023,T0022,C1,15,Master,5th,Retained,N/A,3,4,Mid
+2023,T0023,C1,17,Bachelor,5th,Retained,N/A,4,3,Senior
+2023,T0024,C1,12,Master,5th,Retained,N/A,2,3,Mid
+2023,T0025,C1,18,Master,5th,Retained,N/A,1,2,Senior
+2023,T0027,C2,14,Bachelor,Kindergarten,Retained,N/A,1,2,Mid
+2023,T0028,C2,12,Bachelor,Kindergarten,Retained,N/A,2,2,Mid
+2023,T0029,C2,22,Doctorate,Kindergarten,Left for Charter,Compensation,4,1,Senior
+2023,T0032,C2,11,Bachelor,1st,Retained,N/A,3,4,Mid
+2023,T0033,C2,11,Master,1st,Retained,N/A,4,2,Mid
+2023,T0035,C2,12,Master,2nd,Retained,N/A,1,1,Mid
+2023,T0036,C2,15,Bachelor,2nd,Retained,N/A,3,4,Mid
+2023,T0041,C2,8,Master,3rd,Retained,N/A,2,5,Mid
+2023,T0042,C2,21,Master,3rd,Retained,N/A,3,5,Senior
+2023,T0043,C2,6,Bachelor,4th,Retained,N/A,3,2,Mid
+2023,T0044,C2,11,Doctorate,4th,Retained,N/A,3,5,Mid
+2023,T0045,C2,6,Bachelor,4th,Retained,N/A,3,2,Mid
+2023,T0047,C2,11,Bachelor,5th,Retained,N/A,1,5,Mid
+2023,T0048,C2,8,Doctorate,5th,Left for Charter,Compensation,1,1,Mid
+2023,T0051,C3,15,Master,Kindergarten,Retained,N/A,4,4,Mid
+2023,T0052,C3,21,Bachelor,Kindergarten,Retained,N/A,2,3,Senior
+2023,T0053,C3,18,Bachelor,Kindergarten,Retained,N/A,1,3,Senior
+2023,T0054,C3,13,Master,Kindergarten,Retained,N/A,5,3,Mid
+2023,T0055,C3,7,Bachelor,1st,Retained,N/A,3,1,Mid
+2023,T0056,C3,22,Bachelor,1st,Retained,N/A,4,3,Senior
+2023,T0057,C3,6,Master,1st,Retained,N/A,2,5,Mid
+2023,T0058,C3,11,Bachelor,1st,Retained,N/A,2,3,Mid
+2023,T0059,C3,21,Doctorate,1st,Retained,N/A,3,2,Senior
+2023,T0060,C3,10,Bachelor,2nd,Retained,N/A,1,3,Mid
+2023,T0061,C3,6,Bachelor,2nd,Retained,N/A,1,2,Mid
+2023,T0062,C3,21,Bachelor,2nd,Retained,N/A,4,3,Senior
+2023,T0063,C3,10,Bachelor,2nd,Retained,N/A,3,1,Mid
+2023,T0064,C3,10,Bachelor,3rd,Retained,N/A,2,1,Mid
+2023,T0068,C3,9,Bachelor,4th,Retained,N/A,5,5,Mid
+2023,T0069,C3,17,Bachelor,4th,Retained,N/A,3,2,Senior
+2023,T0070,C3,10,Bachelor,4th,Retained,N/A,4,4,Mid
+2023,T0071,C3,18,Bachelor,4th,Retained,N/A,3,1,Senior
+2023,T0072,C3,22,Master,5th,Retained,N/A,4,4,Senior
+2023,T0075,C3,22,Master,5th,Retained,N/A,2,5,Senior
+2023,T0076,C1,4,Bachelor,Kindergarten,Retained,N/A,2,4,Mid
+2023,T0078,C1,3,Bachelor,3rd,Retained,N/A,4,3,Entry
+2023,T0079,C2,20,Bachelor,1st,Retained,N/A,2,5,Senior
+2023,T0080,C2,2,Bachelor,1st,Retained,N/A,3,3,Entry
+2023,T0082,C2,17,Master,2nd,Left for Another District,Personal,3,3,Senior
+2023,T0083,C2,14,Bachelor,3rd,Retained,N/A,4,1,Mid
+2023,T0084,C2,2,Bachelor,4th,Retained,N/A,3,4,Entry
+2023,T0085,C2,3,Bachelor,5th,Left for Charter,Career Advancement,3,3,Entry
+2023,T0086,C2,4,Bachelor,5th,Retained,N/A,2,3,Mid
+2023,T0087,C3,10,Bachelor,3rd,Retained,N/A,3,4,Mid
+2023,T0089,C3,4,Master,5th,Retained,N/A,4,2,Mid
+2023,T0090,C3,6,Bachelor,5th,Retained,N/A,3,2,Mid
+2023,T0091,C1,3,Bachelor,Kindergarten,Retained,N/A,5,4,Entry
+2023,T0092,C1,3,Bachelor,2nd,Retained,N/A,2,3,Entry
+2023,T0093,C2,5,Bachelor,Kindergarten,Left for Another District,Compensation,2,1,Mid
+2023,T0094,C2,5,Bachelor,2nd,Retained,N/A,1,5,Mid
+2023,T0095,C2,1,Bachelor,2nd,Retained,N/A,3,4,Entry
+2023,T0096,C2,1,Master,3rd,Retained,N/A,4,3,Entry
+2023,T0097,C3,10,Bachelor,3rd,Retained,N/A,4,3,Mid
+2023,T0098,C3,1,Doctorate,3rd,Left for Charter,Compensation,2,1,Entry
+2024,T0003,C1,18,Bachelor,Kindergarten,Left for Another District,Workload,3,3,Senior
+2024,T0004,C1,22,Bachelor,Kindergarten,Retained,N/A,1,4,Senior
+2024,T0005,C1,9,Master,1st,Retained,N/A,2,2,Mid
+2024,T0006,C1,20,Master,1st,Left for Another District,Workload,3,1,Senior
+2024,T0007,C1,21,Master,1st,Retained,N/A,3,4,Senior
+2024,T0008,C1,23,Bachelor,1st,Retained,N/A,4,1,Senior
+2024,T0009,C1,16,Bachelor,1st,Retained,N/A,1,4,Mid
+2024,T0010,C1,16,Master,2nd,Retained,N/A,4,5,Mid
+2024,T0011,C1,14,Master,2nd,Left for Another District,Career Advancement,5,3,Mid
+2024,T0013,C1,14,Bachelor,2nd,Retained,N/A,4,4,Mid
+2024,T0015,C1,14,Bachelor,3rd,Retained,N/A,1,3,Mid
+2024,T0016,C1,11,Master,3rd,Retained,N/A,3,3,Mid
+2024,T0017,C1,11,Doctorate,3rd,Retained,N/A,4,2,Mid
+2024,T0018,C1,20,Bachelor,4th,Retained,N/A,3,3,Senior
+2024,T0019,C1,19,Bachelor,4th,Retained,N/A,4,3,Senior
+2024,T0020,C1,10,Master,4th,Retained,N/A,2,3,Mid
+2024,T0021,C1,10,Master,4th,Left for Another District,Compensation,3,4,Mid
+2024,T0022,C1,16,Master,5th,Retained,N/A,3,4,Mid
+2024,T0023,C1,18,Bachelor,5th,Retained,N/A,4,4,Senior
+2024,T0024,C1,13,Master,5th,Retained,N/A,2,4,Mid
+2024,T0025,C1,19,Master,5th,Retained,N/A,1,2,Senior
+2024,T0027,C2,15,Bachelor,Kindergarten,Retained,N/A,1,2,Mid
+2024,T0028,C2,13,Bachelor,Kindergarten,Retained,N/A,2,2,Mid
+2024,T0032,C2,12,Bachelor,1st,Retained,N/A,3,4,Mid
+2024,T0033,C2,12,Master,1st,Retained,N/A,4,2,Mid
+2024,T0035,C2,13,Master,2nd,Retained,N/A,1,1,Mid
+2024,T0036,C2,16,Bachelor,2nd,Left for Charter,Compensation,3,4,Mid
+2024,T0041,C2,9,Master,3rd,Retained,N/A,2,4,Mid
+2024,T0042,C2,22,Master,3rd,Left for Another District,Compensation,3,5,Senior
+2024,T0043,C2,7,Bachelor,4th,Retained,N/A,3,3,Mid
+2024,T0044,C2,12,Doctorate,4th,Retained,N/A,3,5,Mid
+2024,T0045,C2,7,Bachelor,4th,Retained,N/A,3,2,Mid
+2024,T0047,C2,12,Bachelor,5th,Retained,N/A,1,4,Mid
+2024,T0051,C3,16,Master,Kindergarten,Retained,N/A,4,4,Mid
+2024,T0052,C3,22,Bachelor,Kindergarten,Retained,N/A,2,3,Senior
+2024,T0053,C3,19,Bachelor,Kindergarten,Left for Charter,Career Advancement,1,3,Senior
+2024,T0054,C3,14,Master,Kindergarten,Retained,N/A,5,3,Mid
+2024,T0055,C3,8,Bachelor,1st,Retained,N/A,3,1,Mid
+2024,T0056,C3,23,Bachelor,1st,Retained,N/A,5,3,Senior
+2024,T0057,C3,7,Master,1st,Retained,N/A,2,4,Mid
+2024,T0058,C3,12,Bachelor,1st,Retained,N/A,2,3,Mid
+2024,T0059,C3,22,Doctorate,1st,Retained,N/A,3,2,Senior
+2024,T0060,C3,11,Bachelor,2nd,Retained,N/A,1,4,Mid
+2024,T0061,C3,7,Bachelor,2nd,Retained,N/A,1,3,Mid
+2024,T0062,C3,22,Bachelor,2nd,Retained,N/A,4,3,Senior
+2024,T0063,C3,11,Bachelor,2nd,Retained,N/A,3,1,Mid
+2024,T0064,C3,11,Bachelor,3rd,Left for Another District,Career Advancement,2,1,Mid
+2024,T0068,C3,10,Bachelor,4th,Retained,N/A,5,5,Mid
+2024,T0069,C3,18,Bachelor,4th,Retained,N/A,3,2,Senior
+2024,T0070,C3,11,Bachelor,4th,Left for Another District,Compensation,4,3,Mid
+2024,T0071,C3,19,Bachelor,4th,Retained,N/A,3,1,Senior
+2024,T0072,C3,23,Master,5th,Retained,N/A,4,4,Senior
+2024,T0075,C3,23,Master,5th,Retained,N/A,2,5,Senior
+2024,T0076,C1,5,Bachelor,Kindergarten,Retained,N/A,2,4,Mid
+2024,T0078,C1,4,Bachelor,3rd,Retained,N/A,4,3,Mid
+2024,T0079,C2,21,Bachelor,1st,Retained,N/A,2,5,Senior
+2024,T0080,C2,3,Bachelor,1st,Left for Another District,Career Advancement,4,3,Entry
+2024,T0083,C2,15,Bachelor,3rd,Retained,N/A,5,2,Mid
+2024,T0084,C2,3,Bachelor,4th,Left for Charter,Career Advancement,3,4,Entry
+2024,T0086,C2,5,Bachelor,5th,Retained,N/A,2,3,Mid
+2024,T0087,C3,11,Bachelor,3rd,Retained,N/A,3,4,Mid
+2024,T0089,C3,5,Master,5th,Retained,N/A,4,2,Mid
+2024,T0090,C3,7,Bachelor,5th,Left for Charter,Compensation,2,2,Mid
+2024,T0091,C1,4,Bachelor,Kindergarten,Retained,N/A,5,4,Mid
+2024,T0092,C1,4,Bachelor,2nd,Retained,N/A,2,3,Mid
+2024,T0094,C2,6,Bachelor,2nd,Retained,N/A,1,5,Mid
+2024,T0095,C2,2,Bachelor,2nd,Retained,N/A,3,4,Entry
+2024,T0096,C2,2,Master,3rd,Left for Charter,Compensation,4,3,Entry
+2024,T0097,C3,11,Bachelor,3rd,Retained,N/A,3,3,Mid
+2024,T0099,C2,3,Bachelor,Kindergarten,Retained,N/A,4,2,Entry
+2024,T0100,C2,1,Master,Kindergarten,Retained,N/A,1,4,Entry
+2024,T0101,C2,14,Bachelor,2nd,Retained,N/A,1,4,Mid
+2024,T0102,C2,3,Bachelor,5th,Retained,N/A,3,5,Entry
+2024,T0103,C2,9,Master,5th,Retained,N/A,3,2,Mid
+2024,T0104,C3,5,Bachelor,3rd,Retained,N/A,1,4,Mid
+2025,T0004,C1,23,Bachelor,Kindergarten,Terminated,Performance,1,4,Senior
+2025,T0005,C1,10,Master,1st,Retained,N/A,2,2,Mid
+2025,T0007,C1,22,Master,1st,Retained,N/A,3,4,Senior
+2025,T0008,C1,24,Bachelor,1st,Left for Charter,Compensation,4,1,Senior
+2025,T0009,C1,17,Bachelor,1st,Retained,N/A,2,4,Senior
+2025,T0010,C1,17,Master,2nd,Retained,N/A,4,5,Senior
+2025,T0013,C1,15,Bachelor,2nd,Retained,N/A,4,4,Mid
+2025,T0015,C1,15,Bachelor,3rd,Terminated,Performance,1,3,Mid
+2025,T0016,C1,12,Master,3rd,Retained,N/A,3,3,Mid
+2025,T0017,C1,12,Doctorate,3rd,Retained,N/A,4,2,Mid
+2025,T0018,C1,21,Bachelor,4th,Left for Another District,Workload,3,3,Senior
+2025,T0019,C1,20,Bachelor,4th,Retained,N/A,3,3,Senior
+2025,T0020,C1,11,Master,4th,Retained,N/A,2,3,Mid
+2025,T0022,C1,17,Master,5th,Retained,N/A,3,4,Senior
+2025,T0023,C1,19,Bachelor,5th,Retained,N/A,4,4,Senior
+2025,T0024,C1,14,Master,5th,Retained,N/A,2,4,Mid
+2025,T0025,C1,20,Master,5th,Retained,N/A,1,3,Senior
+2025,T0027,C2,16,Bachelor,Kindergarten,Terminated,Performance,1,2,Mid
+2025,T0028,C2,14,Bachelor,Kindergarten,Retained,N/A,2,2,Mid
+2025,T0032,C2,13,Bachelor,1st,Left for Another District,Compensation,3,4,Mid
+2025,T0033,C2,13,Master,1st,Retained,N/A,4,2,Mid
+2025,T0035,C2,14,Master,2nd,Retained,N/A,1,1,Mid
+2025,T0041,C2,10,Master,3rd,Retained,N/A,2,4,Mid
+2025,T0043,C2,8,Bachelor,4th,Retained,N/A,3,3,Mid
+2025,T0044,C2,13,Doctorate,4th,Retained,N/A,3,5,Mid
+2025,T0045,C2,8,Bachelor,4th,Retained,N/A,3,2,Mid
+2025,T0047,C2,13,Bachelor,5th,Retained,N/A,1,4,Mid
+2025,T0051,C3,17,Master,Kindergarten,Retained,N/A,5,4,Senior
+2025,T0052,C3,23,Bachelor,Kindergarten,Retained,N/A,2,3,Senior
+2025,T0054,C3,15,Master,Kindergarten,Retained,N/A,5,4,Mid
+2025,T0055,C3,9,Bachelor,1st,Left for Charter,Career Advancement,3,2,Mid
+2025,T0056,C3,24,Bachelor,1st,Retained,N/A,5,3,Senior
+2025,T0057,C3,8,Master,1st,Retained,N/A,2,4,Mid
+2025,T0058,C3,13,Bachelor,1st,Retained,N/A,2,3,Mid
+2025,T0059,C3,23,Doctorate,1st,Retained,N/A,3,2,Senior
+2025,T0060,C3,12,Bachelor,2nd,Terminated,Performance,1,4,Mid
+2025,T0061,C3,8,Bachelor,2nd,Retained,N/A,1,3,Mid
+2025,T0062,C3,23,Bachelor,2nd,Retained,N/A,4,3,Senior
+2025,T0063,C3,12,Bachelor,2nd,Retained,N/A,3,1,Mid
+2025,T0068,C3,11,Bachelor,4th,Retained,N/A,5,5,Mid
+2025,T0069,C3,19,Bachelor,4th,Left for Another District,Career Advancement,3,1,Senior
+2025,T0071,C3,20,Bachelor,4th,Retained,N/A,2,1,Senior
+2025,T0072,C3,24,Master,5th,Retained,N/A,4,4,Senior
+2025,T0075,C3,24,Master,5th,Retained,N/A,2,5,Senior
+2025,T0076,C1,6,Bachelor,Kindergarten,Retained,N/A,2,4,Mid
+2025,T0078,C1,5,Bachelor,3rd,Retained,N/A,4,3,Mid
+2025,T0079,C2,22,Bachelor,1st,Retained,N/A,1,5,Senior
+2025,T0083,C2,16,Bachelor,3rd,Retained,N/A,5,2,Mid
+2025,T0086,C2,6,Bachelor,5th,Retained,N/A,2,2,Mid
+2025,T0087,C3,12,Bachelor,3rd,Retained,N/A,3,4,Mid
+2025,T0089,C3,6,Master,5th,Retained,N/A,4,2,Mid
+2025,T0091,C1,5,Bachelor,Kindergarten,Retained,N/A,5,4,Mid
+2025,T0092,C1,5,Bachelor,2nd,Retained,N/A,2,3,Mid
+2025,T0094,C2,7,Bachelor,2nd,Retained,N/A,2,5,Mid
+2025,T0095,C2,3,Bachelor,2nd,Retained,N/A,3,4,Entry
+2025,T0097,C3,12,Bachelor,3rd,Retained,N/A,3,3,Mid
+2025,T0099,C2,4,Bachelor,Kindergarten,Retained,N/A,4,2,Mid
+2025,T0100,C2,2,Master,Kindergarten,Retained,N/A,1,5,Entry
+2025,T0101,C2,15,Bachelor,2nd,Retained,N/A,1,4,Mid
+2025,T0102,C2,4,Bachelor,5th,Retained,N/A,2,5,Mid
+2025,T0103,C2,10,Master,5th,Left for Charter,Compensation,3,2,Mid
+2025,T0104,C3,6,Bachelor,3rd,Left for Another District,Compensation,1,4,Mid
+2025,T0105,C1,3,Master,Kindergarten,Left for Another District,Career Advancement,4,1,Entry
+2025,T0106,C1,2,Bachelor,1st,Left for Another District,Personal,3,1,Entry
+2025,T0107,C1,3,Doctorate,2nd,Retained,N/A,4,1,Entry
+2025,T0108,C1,2,Master,4th,Left for Charter,Career Advancement,5,3,Entry
+2025,T0109,C2,16,Master,1st,Retained,N/A,1,3,Mid
+2025,T0110,C2,1,Bachelor,2nd,Retained,N/A,3,3,Entry
+2025,T0111,C2,1,Bachelor,3rd,Left for Another District,Personal,1,3,Entry
+2025,T0112,C2,2,Doctorate,3rd,Left for Another District,Career Advancement,4,5,Entry
+2025,T0113,C2,1,Bachelor,4th,Left for Another District,Personal,3,3,Entry
+2025,T0114,C3,15,Doctorate,Kindergarten,Retained,N/A,1,2,Mid
+2025,T0115,C3,18,Bachelor,3rd,Left for Charter,Compensation,5,1,Senior
+2025,T0116,C3,1,Bachelor,4th,Left for Another District,Compensation,2,2,Entry
+2025,T0117,C3,5,Bachelor,5th,Retained,N/A,3,1,Mid
